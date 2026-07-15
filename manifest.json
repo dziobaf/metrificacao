@@ -1,0 +1,13 @@
+{
+  "name": "Metrificações",
+  "short_name": "Metrificações",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1116",
+  "theme_color": "#0f1116",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
